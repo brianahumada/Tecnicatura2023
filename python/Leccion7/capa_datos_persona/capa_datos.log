@@ -3,3 +3,56 @@
 10:13:32 AM:WARNING [logger_base.py:18] Mensaje a nivel warning
 10:13:32 AM:ERROR [logger_base.py:19] mensaje a nivel error
 10:13:32 AM:CRITICAL [logger_base.py:20] Mensaje a nivel critical
+07:23:51 PM:DEBUG [Persona.py:55] 
+            id Persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: Jperez@gamial.com
+        
+07:27:06 PM:DEBUG [Persona.py:55] 
+            id Persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: Jperez@gamial.com
+        
+07:27:06 PM:DEBUG [Persona.py:57] 
+            id Persona: Jose,
+            Nombre: Lopez,
+            Apellido: JoseLopez@gmail.com,
+            Email: None
+        
+07:27:49 PM:DEBUG [Persona.py:55] 
+            id Persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: Jperez@gamial.com
+        
+07:27:49 PM:DEBUG [Persona.py:57] 
+            id Persona: None,
+            Nombre: Jose,
+            Apellido: Lopez,
+            Email: JoseLopez@gmail.com
+        
+07:28:55 PM:DEBUG [Persona.py:55] 
+            id Persona: 1,
+            Nombre: Juan,
+            Apellido: Perez,
+            Email: Jperez@gamial.com
+        
+07:28:55 PM:DEBUG [Persona.py:57] 
+            id Persona: None,
+            Nombre: Jose,
+            Apellido: Lopez,
+            Email: JoseLopez@gmail.com
+        
+07:28:55 PM:DEBUG [Persona.py:59] 
+            id Persona: 1,
+            Nombre: None,
+            Apellido: None,
+            Email: None
+        
+08:04:39 PM:DEBUG [conexion.py:23] Conexión EXITOSA: <connection object at 0x0000017FBE3A3120; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:07:24 PM:DEBUG [conexion.py:23] Conexión EXITOSA: <connection object at 0x000001F0E7083120; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:07:24 PM:ERROR [conexion.py:40] Ocurrió un ERROR
+08:10:00 PM:DEBUG [conexion.py:23] Conexión EXITOSA: <connection object at 0x0000022143573120; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:10:00 PM:DEBUG [conexion.py:37] Se abrió correctamente el cursor: <cursor object at 0x00000221456B97E0; closed: 0>
